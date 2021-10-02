@@ -55,10 +55,10 @@
 ```
 
 ## 모델 성능
-- Accuracy: 99.4%
-- Precision: 0.993
-- Recall: 1
-- F1-score: 0.997
+- Accuracy: 99.8%
+- Precision: 0.999
+- Recall: 0.998
+- F1-score: 0.999
 - Confusion Matrix
 
 ![RFC_confusion_matrix](https://user-images.githubusercontent.com/80144296/135718352-266fdeaf-8577-48b0-82df-7921993130f3.png)
