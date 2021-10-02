@@ -61,7 +61,10 @@
 - F1-score: 0.997
 - Confusion Matrix
 
-![RFC_confusion_matrix](https://user-images.githubusercontent.com/80144296/135703227-31990fc5-f8f7-42cb-8971-26a123d31e09.png)
+![RFC_confusion_matrix](https://user-images.githubusercontent.com/80144296/135718352-266fdeaf-8577-48b0-82df-7921993130f3.png)
+
+## 변수 중요도
+![RFC_feature_importance](https://user-images.githubusercontent.com/80144296/135718375-0f310008-7b47-4b2c-93c2-512e0d99e63a.png)
 
 ## 상세설명
 - [티스토리 블로그](https://heytech.tistory.com/118)
