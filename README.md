@@ -41,6 +41,9 @@
 │  └─model
 │  │      wine_classification_rfc.pkl
 │  └─figure
+│  │      boxplot_red.png
+│  │      boxplot_white.png
+│  │      relationship.png
 │  │      RFC_n_estimator.png
 │  │      RFC_n_depth.png
 │  │      RFC_min_samples_split.png
@@ -49,7 +52,9 @@
 │  │      RFC_feature_importance.png
 │  └─dataset
 │         red_raw.csv
+│         red_prep.csv
 │         white_raw.csv
+│         white_prep.csv
 │         wine_combined_raw.csv
 │         wine_combined_prep.csv
 ```
