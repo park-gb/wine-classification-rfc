@@ -72,4 +72,4 @@
 ![RFC_feature_importance](https://user-images.githubusercontent.com/80144296/135718375-0f310008-7b47-4b2c-93c2-512e0d99e63a.png)
 
 ## 상세설명
-- [티스토리 블로그](https://heytech.tistory.com/118)
+- [티스토리 블로그](https://heytech.tistory.com/150)
